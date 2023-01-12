@@ -5,7 +5,7 @@
 class Square:
     """class square"""
     
-    def _init_(self, size=0):
+    def __init__(self, size=0):
         self.size = size
 
     @property
@@ -21,7 +21,7 @@ class Square:
         self.__size = value
 
     def area(self):
-        a = self._size * self._size
+        a = self.__size * self.__size
         return a
 
     def my_print(self):
