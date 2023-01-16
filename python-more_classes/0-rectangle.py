@@ -4,6 +4,4 @@
 
 class Rectangle:
     """this is same as the previous one"""
-    
     pass
-
