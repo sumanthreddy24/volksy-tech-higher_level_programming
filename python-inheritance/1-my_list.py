@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""defines class BaseGeomtry with public instance methods for area and integer validation"""
+"""defines class BaseGeomtry with public instance """
 
 
 class BaseGeometry:
-    """class with public instance method to raise exception and public instance method to validate integer"""
+    """class with public instance method to raise exception"""
 
     def area(self):
         """raises exception that area method is not implemented"""
