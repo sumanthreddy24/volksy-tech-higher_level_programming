@@ -4,9 +4,11 @@
 
 class BaseGeometry:
     """Contains functions area(), integer_validator()"""
+
     def area(self):
         """Function not implemented yet"""
         raise Exception("area() is not implemented")
+
     def integer_validator(self, name, value):
         """Function that validates `value'"""
         if type(value) != int:
