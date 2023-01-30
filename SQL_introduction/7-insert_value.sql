@@ -1,2 +1,2 @@
 -- eighth sql
-INSERT INTO first_table (89, 'Best School');
+INSERT INTO first_table values (89, 'Best School');
