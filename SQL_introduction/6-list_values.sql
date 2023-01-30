@@ -1,2 +1,2 @@
 -- seventh sql
-SELECT * first_table;
+SELECT * from first_table;
