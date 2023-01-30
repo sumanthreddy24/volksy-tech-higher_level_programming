@@ -1,2 +1,2 @@
 -- 15th sql
-SELECT average(score) FROM second_table;
+SELECT avg(score) FROM second_table;
