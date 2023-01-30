@@ -1,2 +1,2 @@
 -- sixth sql
-DESC first_table TYPE = STAGE;
+SHOW CREATE TABLE first_table;
