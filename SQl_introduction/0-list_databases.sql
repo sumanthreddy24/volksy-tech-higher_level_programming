@@ -1,0 +1,2 @@
+-- first sql
+SHOW DATABASES;
