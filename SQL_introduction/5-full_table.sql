@@ -1,2 +1,2 @@
 -- sixth sql
-DESC first_table;
+DESC first_table TYPE = STAGE;
