@@ -1,2 +1,1 @@
--- first sql
-FIRST SQL
+README
