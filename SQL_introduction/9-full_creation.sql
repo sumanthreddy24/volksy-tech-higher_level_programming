@@ -1,5 +1,5 @@
 -- tenth sql
-CREATE TABLE second_table (
+CREATE TABLE if not exists second_table (
 	id int,
        	name varchar(256),
        	score int
