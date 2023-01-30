@@ -1,0 +1,2 @@
+-- fourth sql
+SHOW TABLES;
